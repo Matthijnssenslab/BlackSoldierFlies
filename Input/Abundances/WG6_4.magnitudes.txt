@@ -1,0 +1,3 @@
+magnitudes	WG6_4
+NODE_A6_length_15806_cov_1153.172738_S40	44221
+NODE_A2_length_16366_cov_68.635644_S6	94982

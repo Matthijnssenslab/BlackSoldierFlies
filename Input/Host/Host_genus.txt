@@ -1,0 +1,14 @@
+NODE_A10_length_4285_cov_20.887357_S36	Limosilactobacillus
+NODE_A1_length_19728_cov_1238.280342_S18,81.15	Lactococcus
+NODE_A1_length_20521_cov_1650.965613_S5,81.66	Lactococcus
+NODE_A1_length_39926_cov_54.418078_S13,39.85	Proteus
+NODE_A2_length_41430_cov_179.688269_S23,17.11	Proteus
+NODE_A3_length_31494_cov_55.935131_S13,35.30	Providencia
+NODE_A3_length_45619_cov_251.714988_S19,16.84	Enterococcus
+NODE_A3_length_4788_cov_8.690936_NC3,38.42	Phascolarctobacterium
+NODE_A3_length_55471_cov_63.532260_S25,46.18	Proteus
+NODE_A4_length_53535_cov_664.961184_S25,21.50	Dysgonomonas
+NODE_A6_length_40594_cov_95.137843_S25,13.88	Wohlfahrtiimonas
+NODE_A78_length_6007_cov_35.203541_S7,35.05	Proteus
+NODE_B3_length_36478_cov_9.655889_S43,20.27	Bordetella
+
