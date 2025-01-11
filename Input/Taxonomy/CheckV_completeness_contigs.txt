@@ -1,0 +1,6 @@
+Complete contigs 15
+High-quality contigs (> 90% complete)	25
+Medium-quality contigs (50-90% complete) 55
+Low-quality contigs (< 50% complete) 4678
+Not-determined contigs 21226
+Total non-redundant contigs 25999
